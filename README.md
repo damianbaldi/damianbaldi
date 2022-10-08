@@ -1,7 +1,6 @@
 ## ¡Hola a todos! Mi nombre es Damián 👋
 
-### Soy estudiante de DevOps
-
+### Estoy estudiando como utilizar Git y GitHub
 
 
 ## 🔎 Mis estadisticas:
