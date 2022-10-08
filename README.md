@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
+### ¡Hola a todos! Mi nombre es Damián [Chochy][Facebook] 👋
 
 ## Soy estudiante, Profesor y desarrollador de Software
 
