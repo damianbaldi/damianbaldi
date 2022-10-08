@@ -5,6 +5,7 @@
 
 ## 🔎 Mis estadisticas:
 <details>
+<br>
     <summary>🔎 Ver</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=damianbaldi&show_icons=true&theme=tokyonight)
