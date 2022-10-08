@@ -1,12 +1,7 @@
-### ¡Hola a todos! Mi nombre es Damián 👋
+## ¡Hola a todos! Mi nombre es Damián 👋
 
-## Soy estudiante de DevOps
+### Soy estudiante de DevOps
 
-
-__Cursos:__
-<br />
-
-<br />
 
 
 ## 🔎 Mis estadisticas:
